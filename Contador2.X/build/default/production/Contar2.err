@@ -1,0 +1,12 @@
+Warning[205] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 1 : Found directive in column 1. (LIST)
+Warning[207] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 16 : Found label after column 1. (N)
+Warning[205] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 18 : Found directive in column 1. (ORG)
+Message[302] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 26 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 27 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 31 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 38 : Found label after column 1. (Paso1)
+Warning[207] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 45 : Found label after column 1. (Display)
+Warning[207] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 57 : Found label after column 1. (Tabla)
+Warning[207] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 71 : Found label after column 1. (Retardo)
+Warning[207] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 74 : Found label after column 1. (Rep1)
+Warning[207] C:\USERS\LENOVO\DOWNLOADS\CONTADOR2.X\CONTAR2.ASM 77 : Found label after column 1. (Rep2)
